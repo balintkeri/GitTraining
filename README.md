@@ -31,6 +31,8 @@ Widely used in open-source projects and adopted by leading companies worldwide.
 
 ## <a name="basics"></a>Basics
 
+### Init
+ Initializes a new Git repository in a directory. This creates a .git folder where Git stores all version control information.
 ```
 git init
 ```
