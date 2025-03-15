@@ -27,4 +27,10 @@ Widely used in open-source projects and adopted by leading companies worldwide.
 
 ## <a name="concept1"></a>Concept
 
+
+
 ## <a name="basics"></a>Basics
+
+```
+git init
+```
